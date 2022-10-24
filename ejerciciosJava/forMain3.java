@@ -15,6 +15,5 @@ public class forMain3 {
         }
         System.out.println("La suma de: " + num + " con todos los anteriores: " + sum );
 
-
     }
 }
